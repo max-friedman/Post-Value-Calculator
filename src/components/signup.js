@@ -24,7 +24,7 @@ function calculate(igUsername) {
    ],
   }
   //https://developers.google.com/oauthplayground/?code=4/0AY0e-g4dRWwKk4Ia_Ug0jsgWF49lcPbiU41nWnKy6sMgoyazx_F30iKI9TMcGDGl8unvPQ&scope=https://www.googleapis.com/auth/drive%20https://www.googleapis.com/auth/drive.readonly%20https://www.googleapis.com/auth/drive.file%20https://www.googleapis.com/auth/spreadsheets.readonly%20https://www.googleapis.com/auth/spreadsheets
-  var accessToken = 'ya29.a0AfH6SMCOTVIl9qNKmWBZZKUV4g2ZUmvonB3Mdli-ZfW-tWGYl3-xBId5IQuW16Z_gUFzsI453Ov-9M0Iy9ugCjcOJGP4FulovF3yYZ5uJvjahSia3Mmoa-YXVUZMCqDHoi9XvfMsvxrREgcOwhVOgkRAwn1T'; 
+  var accessToken = 'ya29.a0AfH6SMBbZyAiDNdGBWdJQyK2krnLq849VIhehJroIXNI4q62dNARa2afb8sTnP5PJV9IOjvrgusechFYNhpsq_1TupWkqrpmLg7OjH3o3DLVxnTLVsqsRA4wSI7jpce5zRXo1BsXQAIGadJjlN7fHhSpcsX2'; 
   var xhr = new XMLHttpRequest();
   xhr.open('PUT', 'https://sheets.googleapis.com/v4/spreadsheets/'+'1RxH5BLpesXy4UvpBzrmBGTELZleh442NrywgJVpCnqw'+'/'+"values/"+"Sheet1!A2:A3"+'?'+'valueInputOption=USER_ENTERED');
   xhr.setRequestHeader('Authorization', 'Bearer ' + accessToken);
