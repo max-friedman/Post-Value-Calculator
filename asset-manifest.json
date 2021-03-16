@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Post-Value-Calculator/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Post-Value-Calculator/static/js/main.ea6582b0.chunk.js",
+    "main.js.map": "/Post-Value-Calculator/static/js/main.ea6582b0.chunk.js.map",
+    "runtime-main.js": "/Post-Value-Calculator/static/js/runtime-main.9ae72a29.js",
+    "runtime-main.js.map": "/Post-Value-Calculator/static/js/runtime-main.9ae72a29.js.map",
+    "static/js/2.8061d4b1.chunk.js": "/Post-Value-Calculator/static/js/2.8061d4b1.chunk.js",
+    "static/js/2.8061d4b1.chunk.js.map": "/Post-Value-Calculator/static/js/2.8061d4b1.chunk.js.map",
+    "static/js/3.c9dd3f61.chunk.js": "/Post-Value-Calculator/static/js/3.c9dd3f61.chunk.js",
+    "static/js/3.c9dd3f61.chunk.js.map": "/Post-Value-Calculator/static/js/3.c9dd3f61.chunk.js.map",
+    "index.html": "/Post-Value-Calculator/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Post-Value-Calculator/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.8061d4b1.chunk.js.LICENSE.txt": "/Post-Value-Calculator/static/js/2.8061d4b1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Post-Value-Calculator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ae72a29.js",
+    "static/js/2.8061d4b1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ea6582b0.chunk.js"
+  ]
+}
